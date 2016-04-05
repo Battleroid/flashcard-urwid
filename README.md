@@ -7,4 +7,6 @@ Name | Description
 `-h --help` | Show help screen.
 `<definitions>` | Use the provided CSV.
 
+![Sample Use](sample.png)
+
 My first foray into using urwid, still don't entirely understand what's going on, but it's pretty cool nonetheless.
